@@ -12,3 +12,6 @@ high risk customers and merchants <br>
 
 ### Modeling
 Classification models
+
+### Powerpoint
+Details of the project from step to step
